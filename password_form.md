@@ -28,9 +28,9 @@ This form is built in a way such that it doesn't send the username or password a
       array.push(String.fromCodePoint(getRandomInt(33, 127)));
     }
     // Turn the array into a password
-    document.getElementById("MadePass").textContent = "Generated Password: " + array.join("");
+    document.getElementById("MadePass").value = array.join("");
   }
 </script>
 <p>Length: <input id="length" type="number">
 <input type="button" value="Generate" onclick="main()"></p>
-<p id="MadePass">Generated Password: </p>
+<p>Generated Password: <input type="text" id="MadePass"></p>
