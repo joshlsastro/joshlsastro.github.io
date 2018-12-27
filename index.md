@@ -5,5 +5,5 @@
 [Password Form for Firefox](password_form.md)
 
 ## Other
-[GitHub Pages Tutorial](gh_pages_tutorial.md)
+[GitHub Pages Tutorial](gh_pages_tutorial.md)  
 [200 Years of Human Progress](last_200_years.md)
