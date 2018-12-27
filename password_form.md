@@ -9,6 +9,8 @@
 This form is a way to save passwords in Firefox for sites that don't allow saving passwords.  
 This form is built in a way such that it doesn't send the username or password anywhere, so don't worry about that.
 
+## Password Generator
+
 <script>
   // From MDN website
   function getRandomInt(min, max) {
