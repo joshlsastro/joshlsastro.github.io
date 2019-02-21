@@ -2,6 +2,7 @@
 
 ## Coding Projects
 [Escape the Maze](https://github.com/joshlsastro/Escape_The_Maze)  
+[Fermi Question Generator](https://trinket.io/python/03800f644a)  
 [Password Form for Firefox](password_form.md)
 
 ## Other
