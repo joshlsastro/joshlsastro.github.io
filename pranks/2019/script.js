@@ -7,7 +7,7 @@ var jokes =
 {"Firefox": "Due to a complaint from an animal cruelty society, this website no longer allows Firefox users. Please use Chrome.",
  "Internet Explorer": "Internet Explorer has gotten lost. Please upgrade to Firefox or Chrome",
  "Chrome": "Due to a Chromium shortage, I am unable to maintain this site on Chrome. Please use Firefox.",
- "Microsoft Edge": "You're actually <b>not<b> using Internet Explorer. However, your browser is too Edge-y for this website. Please use Firefox or Chrome.",
+ "Microsoft Edge": "You're actually <b>not</b> using Internet Explorer. However, your browser is too Edge-y for this website. Please use Firefox or Chrome.",
  "Safari": "I am not going on a safari to support you. Please use Firefox or Chrome.",
  "Opera": "You're using Opera. So where's the music? I mean, there's none on this page.",
  "Other":"What are you using?! How have you been able to browse the Web?"};
