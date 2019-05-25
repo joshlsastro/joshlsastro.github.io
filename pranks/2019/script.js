@@ -12,7 +12,7 @@ var jokes =
  "Opera": "You're using Opera. So where's the music? I mean, there's none on this page.",
  "Other":"What are you using?! How have you been able to browse the Web?"};
 var joke = jokes[bowser.name];
-if (referrer == "https://joshlsastro.github.io/troubasite") {
+if (referrer == "https://joshlsastro.github.io/troubasite/") {
 	  document.write("<p>Hello fellow Troubadour! <a href=\"javascript:cheese()\">Use the cheese!</a><p>\n");
 	  }
 document.write("<p>");
