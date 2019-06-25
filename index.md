@@ -8,7 +8,7 @@
 
 ## Archives
 
-[Troubadours Website 2018-2019](troubasite)
+[Troubadours Website 2018-2019](//troubasite.github.io)
 
 ## Other
 [GitHub Pages Tutorial](gh_pages_tutorial.md)  
