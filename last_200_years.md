@@ -67,7 +67,7 @@ Here is a graph of the world in 2018:
 
 ![World in 2018](media/Gapminder_Pictures/GP_2018.PNG)
 
-As the graph shows, quality of life has improved dramatically. The world has never been a healthier or more prosperous place. In addition, the world is more educated than ever, with literacy at around 86%. Even though the world still faces many challenges, the world has never been more capable of facing them.
+As the graph shows, quality of life has improved dramatically. As of 2018, the world has never been a healthier or more prosperous place. In addition, the world is more educated than ever, with literacy at around 86%. Even though the world still faces many challenges, the world has never been more capable of facing them.
 
 # Works Cited
 
