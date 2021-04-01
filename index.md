@@ -1,9 +1,18 @@
 # My Website
 
+<noscript><h1>Please Enable JavaScript in the Browser.</h1></noscript>
+
+<script>
+if (!(location.toString().endsWith("april-fools-2021"))) {
+  location = "pranks/2021";
+}
+</script>
+
 ## Coding Projects
 [Escape the Maze](https://github.com/joshlsastro/Escape_The_Maze)  
 [Fermi Question Generator](https://trinket.io/python/03800f644a)  
-[Password Form for Firefox](password_form.md)
+[Password Form for Firefox](password_form.md)  
+[Subleq Computer](https://github.com/joshlsastro/subleq_cpu)
 
 ## Archives
 
