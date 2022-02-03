@@ -4,7 +4,8 @@
 [Escape the Maze](https://github.com/joshlsastro/Escape_The_Maze)  
 [Fermi Question Generator](https://trinket.io/python/03800f644a)  
 [Password Form for Firefox](password_form.md)  
-[Subleq Computer](https://github.com/joshlsastro/subleq_cpu)
+[Subleq Computer](https://github.com/joshlsastro/subleq_cpu)  
+[How Realistic is My Computation?](landauer)
 
 ## Archives
 
