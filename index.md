@@ -4,7 +4,7 @@
 
 <script>
 if (!(location.toString().endsWith("april-fools-2022"))) {
-  location = "pranks/2021";
+  location = "pranks/2022";
 }
 </script>
 
