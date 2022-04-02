@@ -1,13 +1,5 @@
 # My Website
 
-<noscript><h1>Please Enable JavaScript in the Browser.</h1></noscript>
-
-<script>
-if (!(location.toString().endsWith("april-fools-2022"))) {
-  location = "pranks/2022";
-}
-</script>
-
 ## Coding Projects
 [Escape the Maze](https://github.com/joshlsastro/Escape_The_Maze)  
 [Fermi Question Generator](https://trinket.io/python/03800f644a)  
@@ -23,7 +15,8 @@ if (!(location.toString().endsWith("april-fools-2022"))) {
 
 [2019](pranks/2019)  
 [2020](pranks/2020)  
-[2021](pranks/2021)
+[2021](pranks/2021)  
+[2022](pranks/2022)
 
 ## Other
 [GitHub Pages Tutorial](gh_pages_tutorial.md)  
