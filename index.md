@@ -17,6 +17,7 @@
 [2020](pranks/2020)  
 [2021](pranks/2021)  
 [2022](pranks/2022)
+[2023 (update, not prank)](pranks/2023/update.md)
 
 ## Other
 [GitHub Pages Tutorial](gh_pages_tutorial.md)  
