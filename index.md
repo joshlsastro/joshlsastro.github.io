@@ -25,3 +25,4 @@
 [200 Years of Human Progress](last_200_years.md)  
 [News On Dead Stars](news-on-dead-stars)  
 [The Atlas Supervisor Explained](atlas-os-explained)
+[The Incompleteness Theorem](Godel_Theorem.md)
