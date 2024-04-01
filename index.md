@@ -1,5 +1,13 @@
 # My Website
 
+<noscript><h1>Please Enable JavaScript in the Browser.</h1></noscript>
+
+<script>
+if (!(location.toString().endsWith("april-fools-2024"))) {
+  location = "pranks/2024";
+}
+</script>
+
 ## Coding Projects
 [Escape the Maze](https://github.com/joshlsastro/Escape_The_Maze)  
 [Fermi Question Generator](https://trinket.io/python/03800f644a)  
