@@ -11,7 +11,8 @@
 
 ## Archives
 
-[Troubadours Website 2018-2019](//troubasite.github.io)
+[Troubadours Website 2018-2019](//troubasite.github.io)  
+Most other projects are archived at <https://archive.softwareheritage.org/>. Search for "joshlsastro" to find them.
 
 ## April Fools
 

@@ -1,0 +1,12 @@
+/* HUMANS */
+Owner: Josh Ellis
+Location: Colorado, United States
+
+/* SITE */
+Last update: GODEL
+Language: English
+Technology: GitHub Pages, each repository mentions the technology it uses
+
+===
+
+You can learn more about humans.txt at https://humanstxt.org/
