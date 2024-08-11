@@ -32,3 +32,5 @@ Most other projects are archived at <https://archive.softwareheritage.org/>. Sea
 [News On Dead Stars](news-on-dead-stars)  
 [The Atlas Supervisor Explained](atlas-os-explained)  
 [The Incompleteness Theorem](Godel_Theorem.md)
+
+PGP Fingerprint: 6F02 2BE7 7A5F DB2A 7B65 22A2 DE21 E516 CC24 AF9F ([Huh?](https://support.mozilla.org/en-US/kb/introduction-to-e2e-encryption))
