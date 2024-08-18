@@ -29,7 +29,7 @@ For those who want more details about the proof, I recommend reading the origina
 ## Sources
 
 Kurt G&#xf6;del, *On formally undecidable propositions of Principia
-Mathematica and related systems I*, 1931, <http://www.hirzels.com/martin/papers/canon00-goedel.pdf>
+Mathematica and related systems I*, <http://www.hirzels.com/martin/papers/canon00-goedel.pdf>, 1931
 
 Imaad Nisar, "Meta-mathematics and G&#xf6;del Numbering", <https://www.lucy.cam.ac.uk/sites/default/files/inline-files/Meta-mathematics%20and%20Godel%20Numbering.pdf>, 30 May 2022, *Lucy Cavendish*
 
