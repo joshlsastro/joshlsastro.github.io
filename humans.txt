@@ -2,8 +2,11 @@
 Owner: Josh Ellis
 Location: Colorado, United States
 
+/* THANKS */
+Sponsor: ndls60
+
 /* SITE */
-Last update: 2024/07/26
+Last update: 2024/09/11
 Language: English
 Technology: GitHub Pages, each repository mentions the technology it uses
 
