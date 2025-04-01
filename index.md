@@ -10,7 +10,7 @@ if (!(location.toString().endsWith("april-fools-2025"))) {
 
 ## Coding Projects
 
-[Josh's Weather App](weather)  
+[Josh's Weather App](weather) (price cut by 70% from $0 to $0!)  
 [Simple Citation System](simple_citations)  
 [Subleq Computer](https://github.com/joshlsastro/subleq_cpu)  
 
