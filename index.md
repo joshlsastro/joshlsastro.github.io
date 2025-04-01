@@ -1,5 +1,13 @@
 # My Website
 
+<noscript><h1>Please Enable JavaScript in the Browser.</h1></noscript>
+
+<script>
+if (!(location.toString().endsWith("april-fools-2025"))) {
+  location = "pranks/2025";
+}
+</script>
+
 ## Coding Projects
 
 [Josh's Weather App](weather)  
