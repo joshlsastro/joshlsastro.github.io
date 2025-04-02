@@ -1,16 +1,8 @@
 # My Website
 
-<noscript><h1>Please Enable JavaScript in the Browser.</h1></noscript>
-
-<script>
-if (!(location.toString().endsWith("april-fools-2025"))) {
-  location = "pranks/2025";
-}
-</script>
-
 ## Coding Projects
 
-[Josh's Weather App](weather) (price cut by 70% from $0 to $0!)  
+[Josh's Weather App](weather)  
 [Simple Citation System](simple_citations)  
 [Subleq Computer](https://github.com/joshlsastro/subleq_cpu)  
 
@@ -32,7 +24,8 @@ Most other projects are archived at <https://archive.softwareheritage.org/>. Sea
 [2021](pranks/2021)  
 [2022](pranks/2022)  
 [2023 (update, not prank)](pranks/2023/update.md)  
-[2024](pranks/2024)
+[2024](pranks/2024)  
+[2025](pranks/2025)
 
 ## Other
 [GitHub Pages Tutorial](gh_pages_tutorial.md)  
