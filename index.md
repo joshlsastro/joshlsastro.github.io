@@ -25,7 +25,9 @@ Most other projects are archived at <https://archive.softwareheritage.org/>. Sea
 [2022](pranks/2022)  
 [2023 (update, not prank)](pranks/2023/update.md)  
 [2024](pranks/2024)  
-[2025](pranks/2025)
+[2025](pranks/2025)  
+I plan to have a prank in 2026, but it won't be ready by April 1. As
+such, there will be no redirect to it.
 
 ## Other
 [GitHub Pages Tutorial](gh_pages_tutorial.md)  
