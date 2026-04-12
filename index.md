@@ -7,10 +7,12 @@
 [Subleq Computer](https://github.com/joshlsastro/subleq_cpu)  
 
 [Escape the Maze](https://github.com/joshlsastro/Escape_The_Maze)  
-[Fermi Question Generator](https://trinket.io/python/03800f644a)  
+[Fermi Questions by Eric Andrechek](https://fermi-questions.andrechek.com/)  
 [How Realistic is My Computation?](landauer)  
 [Stellar Evolution Simulator](https://github.com/joshlsastro/CS_462_Stellar_Evolution)  
 [Password Form for Firefox](password_form.md)  
+
+[Old Fermi Question Generator That Will Go Down in August 2026](https://trinket.io/python/03800f644a)  
 
 ## Archives
 
