@@ -10,6 +10,7 @@
 [Fermi Questions by Eric Andrechek](https://fermi-questions.andrechek.com/)  
 [How Realistic is My Computation?](landauer)  
 [Stellar Evolution Simulator](https://github.com/joshlsastro/CS_462_Stellar_Evolution)  
+[Python in Browser](python-online)  
 [Password Form for Firefox](password_form.md)  
 
 [Old Fermi Question Generator That Will Go Down in August 2026](https://trinket.io/python/03800f644a)  
